@@ -1,1 +1,1 @@
-# Tableau-Projects-
+# Tableau-Projects- Compare performance metrics across different dimensions, such as time periods, product categories, or customer segments. Tableau's side-by-side visualizations can help in effective benchmarking.
